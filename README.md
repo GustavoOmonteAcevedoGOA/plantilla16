@@ -12,7 +12,7 @@
       Code
     </a>
     <span> | </span>
-    <a href="https://sitelandingpage.netlify.app/">
+    <a href="https://sitelandingpagegoa.netlify.app/">
       Demo
     </a>
     
